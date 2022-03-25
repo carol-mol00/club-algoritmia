@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-cout<<"hola mundo";+6897
+cout<<"hola mundo";
 
 
 
